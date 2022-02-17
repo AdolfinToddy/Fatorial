@@ -1,0 +1,1 @@
+Esse é um simples código criado com a intenção de calcular números fatoriais em C, é apenas o inicio dos meus estudos na linguagem.
